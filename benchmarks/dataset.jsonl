@@ -1,0 +1,16 @@
+{"id": "q001", "prompt": "What is your return policy?", "expected_output_tokens": 30}
+{"id": "q002", "prompt": "How do I reset my password?", "expected_output_tokens": 25}
+{"id": "q003", "prompt": "What are your support hours?", "expected_output_tokens": 20}
+{"id": "q004", "prompt": "  WHAT IS YOUR RETURN POLICY?  ", "expected_output_tokens": 30}
+{"id": "q005", "prompt": "Hi there!", "expected_output_tokens": 8}
+{"id": "q006", "prompt": "Thanks, that works.", "expected_output_tokens": 6}
+{"id": "q007", "prompt": "What time zone is example.com support based in?", "expected_output_tokens": 15}
+{"id": "q008", "prompt": "Can you confirm my order number ORD-1234 was received?", "expected_output_tokens": 18}
+{"id": "q009", "prompt": "List three tips for writing a good subject line.", "expected_output_tokens": 40}
+{"id": "q010", "prompt": "Summarize this thread.", "expected_output_tokens": 12}
+{"id": "q011", "prompt": "Please analyze the attached quarterly sales report and summarize the key trends.", "expected_output_tokens": 120}
+{"id": "q012", "prompt": "Can you optimize this SQL query for performance on a large events table?", "expected_output_tokens": 90}
+{"id": "q013", "prompt": "Analyze customer churn patterns across the last four quarters and recommend two retention experiments we could run next quarter.", "expected_output_tokens": 150}
+{"id": "q014", "prompt": "How can we optimize onboarding time for new hires during their first week?", "expected_output_tokens": 95}
+{"id": "q015", "prompt": "Write a detailed onboarding email for new customers of example.com that explains account setup, billing, and where to find support documentation.", "expected_output_tokens": 200}
+{"id": "q016", "prompt": "Draft a two paragraph announcement about an upcoming maintenance window for all example.com users next Tuesday evening.", "expected_output_tokens": 130}
