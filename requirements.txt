@@ -1,0 +1,7 @@
+# Runtime dependency
+# tiktoken: deterministic token counting, offline, no network calls.
+tiktoken>=0.7.0
+
+# Development / tests
+# pytest: runs the test suite in tests/ and in CI.
+pytest>=8.0.0
